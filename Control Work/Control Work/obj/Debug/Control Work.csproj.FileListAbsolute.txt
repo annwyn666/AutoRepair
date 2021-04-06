@@ -1,0 +1,36 @@
+C:\Users\annwy\Desktop\КонтрРаб\3 курс\Control Work\Control Work\bin\Debug\Database1.mdf
+C:\Users\annwy\Desktop\КонтрРаб\3 курс\Control Work\Control Work\bin\Debug\Database1_log.ldf
+C:\Users\annwy\Desktop\КонтрРаб\3 курс\Control Work\Control Work\bin\Debug\Control Work.exe.config
+C:\Users\annwy\Desktop\КонтрРаб\3 курс\Control Work\Control Work\bin\Debug\Control Work.exe
+C:\Users\annwy\Desktop\КонтрРаб\3 курс\Control Work\Control Work\bin\Debug\Control Work.pdb
+C:\Users\annwy\Desktop\КонтрРаб\3 курс\Control Work\Control Work\obj\Debug\Control Work.csprojAssemblyReference.cache
+C:\Users\annwy\Desktop\КонтрРаб\3 курс\Control Work\Control Work\obj\Debug\Control_Work.Form1.resources
+C:\Users\annwy\Desktop\КонтрРаб\3 курс\Control Work\Control Work\obj\Debug\Control_Work.Properties.Resources.resources
+C:\Users\annwy\Desktop\КонтрРаб\3 курс\Control Work\Control Work\obj\Debug\Control Work.csproj.GenerateResource.cache
+C:\Users\annwy\Desktop\КонтрРаб\3 курс\Control Work\Control Work\obj\Debug\Control Work.csproj.CoreCompileInputs.cache
+C:\Users\annwy\Desktop\КонтрРаб\3 курс\Control Work\Control Work\obj\Debug\Control Work.exe
+C:\Users\annwy\Desktop\КонтрРаб\3 курс\Control Work\Control Work\obj\Debug\Control Work.pdb
+F:\КонтрРаб\3 курс\Control Work\Control Work\bin\Debug\Database1.mdf
+F:\КонтрРаб\3 курс\Control Work\Control Work\bin\Debug\Database1_log.ldf
+F:\КонтрРаб\3 курс\Control Work\Control Work\bin\Debug\Control Work.exe.config
+F:\КонтрРаб\3 курс\Control Work\Control Work\bin\Debug\Control Work.exe
+F:\КонтрРаб\3 курс\Control Work\Control Work\bin\Debug\Control Work.pdb
+F:\КонтрРаб\3 курс\Control Work\Control Work\obj\Debug\Control Work.csprojAssemblyReference.cache
+F:\КонтрРаб\3 курс\Control Work\Control Work\obj\Debug\Control_Work.Form1.resources
+F:\КонтрРаб\3 курс\Control Work\Control Work\obj\Debug\Control_Work.Properties.Resources.resources
+F:\КонтрРаб\3 курс\Control Work\Control Work\obj\Debug\Control Work.csproj.GenerateResource.cache
+F:\КонтрРаб\3 курс\Control Work\Control Work\obj\Debug\Control Work.csproj.CoreCompileInputs.cache
+F:\КонтрРаб\3 курс\Control Work\Control Work\obj\Debug\Control Work.exe
+F:\КонтрРаб\3 курс\Control Work\Control Work\obj\Debug\Control Work.pdb
+C:\Users\Kladov\Documents\Control Work\Control Work\bin\Debug\Database1.mdf
+C:\Users\Kladov\Documents\Control Work\Control Work\bin\Debug\Database1_log.ldf
+C:\Users\Kladov\Documents\Control Work\Control Work\bin\Debug\Control Work.exe.config
+C:\Users\Kladov\Documents\Control Work\Control Work\bin\Debug\Control Work.exe
+C:\Users\Kladov\Documents\Control Work\Control Work\bin\Debug\Control Work.pdb
+C:\Users\Kladov\Documents\Control Work\Control Work\obj\Debug\Control Work.csprojAssemblyReference.cache
+C:\Users\Kladov\Documents\Control Work\Control Work\obj\Debug\Control_Work.Form1.resources
+C:\Users\Kladov\Documents\Control Work\Control Work\obj\Debug\Control_Work.Properties.Resources.resources
+C:\Users\Kladov\Documents\Control Work\Control Work\obj\Debug\Control Work.csproj.GenerateResource.cache
+C:\Users\Kladov\Documents\Control Work\Control Work\obj\Debug\Control Work.csproj.CoreCompileInputs.cache
+C:\Users\Kladov\Documents\Control Work\Control Work\obj\Debug\Control Work.exe
+C:\Users\Kladov\Documents\Control Work\Control Work\obj\Debug\Control Work.pdb
